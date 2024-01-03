@@ -1,10 +1,10 @@
 <template>
   <div>
-    <div>Documentação em desenvolvimento \0/</div>
+    <h3>Documentação em desenvolvimento</h3>
     <div>
       <SimpleButton
         id="button"
-        label="Enviar"
+        label="Button"
         maxWidth="300px"
         minWidth="250px"
         :primary="true"
