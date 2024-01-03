@@ -1,6 +1,16 @@
-# Vue UI Kit
+# Lc Dias UI Kit Vue 3
+
+Estou iniciando o desenvolvimento dessa biblioteca de componentes
+com o intuito de praticar e aprimorar minhas habilidades tanto com Vue quanto com testes unitários.
 
 Vue 3 - Sass - Storybook - Vitest - Vue/test-utils
+
+
+Se quiser acompanhar o desenvolvimento fique a vontade , acessando os links abaixo:
+
+View [Doc]().
+
+View [Storybook]().
 
 ## Tests
 
@@ -18,7 +28,7 @@ npm run storybook
 
 ## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+
 
 ## Project Setup
 
