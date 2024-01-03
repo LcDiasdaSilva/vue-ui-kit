@@ -8,7 +8,7 @@ Vue 3 - Sass - Storybook - Vitest - vue/test-utils
 
 Se quiser acompanhar o desenvolvimento fique a vontade , acessando os links abaixo:
 
-View [Doc](https://vue-ui-kit.pages.dev/).
+View [Doc](https://vue-ui-kit.pages.dev).
 
 View [Storybook](https://vue-ui-kit.pages.dev/storybook).
 
