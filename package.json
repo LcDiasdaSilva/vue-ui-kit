@@ -13,7 +13,7 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "copy-storybook": "copyfiles -u 1 storybook-static/**/* public/storybook/",
-    "postinstall": "build-storybook && copy-storybook"
+    "postinstall": "storybook build && copyfiles -u 1 storybook-static/**/* public/storybook/"
   },
   "dependencies": {
     "pinia": "^2.1.7",
